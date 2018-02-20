@@ -1,5 +1,3 @@
-draft: true
-
 +++
 date = "2018-02-20T15:17:26+05:30"
 title = "Reverie Language Technologies"
